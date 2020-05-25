@@ -1,3 +1,4 @@
 #!/bin/sh
 cd ~/.shortcuts/
-git pull
+git pull --force
+read
